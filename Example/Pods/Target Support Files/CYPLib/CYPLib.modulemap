@@ -1,0 +1,6 @@
+framework module CYPLib {
+  umbrella header "CYPLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
